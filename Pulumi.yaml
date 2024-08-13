@@ -1,0 +1,11 @@
+name: cortex
+runtime:
+  name: go
+#  options:
+#    binary: ./.debug.sh
+
+description: cortex
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: go

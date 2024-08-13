@@ -1,0 +1,1 @@
+podman save localhost/cortex:TTDP-4489 | sudo k3s ctr images import -

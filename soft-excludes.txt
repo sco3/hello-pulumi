@@ -1,0 +1,19 @@
+# device/asset type  -  href / resource
+
+*doorbell /audio_files_download
+*doorbell /audio_playback
+*doorbell /audio_recording
+*doorbell /face_group_vectors_download
+*doorbell /hdr
+*doorbell /ir_sensor
+*doorbell /maintenance/deRegistration
+*doorbell /maintenance/event_trigger_settings
+*doorbell /maintenance/processing
+*doorbell /maintenance/settings
+*doorbell /maintenance/storage
+*doorbell /maintenance/video_settings
+*doorbell /onboard
+*doorbell /siren
+*doorbell /spotlight
+*doorbell /video
+*doorbell /video_interval
